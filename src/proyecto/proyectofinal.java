@@ -26,7 +26,7 @@ public class proyectofinal {
         // Procesamiento del proyecto
         double totalCompras = compra1 + compra2 + compra3;
         double promedioCompras = totalCompras / 3;
-
+        //ESTE SERÁ UN CAMBIO
         // Resultados finales
         System.out.println("\n--- RESULTADOS ---");
         System.out.println("Nombre del cliente     Sr./Sra. : " + nombre);
