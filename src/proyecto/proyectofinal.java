@@ -10,6 +10,7 @@ public class proyectofinal {
         Scanner input = new Scanner(System.in);
 
         // Ingreso de datos del proyecto
+        // ESTA ES LA ACTUALIZACIÓN
         System.out.print("Ingrese el nombre del cliente: ");
         String nombre = input.nextLine();
 
